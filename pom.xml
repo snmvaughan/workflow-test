@@ -6,6 +6,7 @@
   <version>1.0</version>
   <packaging>jar</packaging>
   <name>workflow-test</name>
+  <description>A test of a modified gitflow workflow.</description>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
